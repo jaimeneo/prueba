@@ -1,1 +1,1 @@
-alet("Hi there, este es mi archivito")
+alert("Hi there, este es mi archivito")
